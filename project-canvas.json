@@ -1,0 +1,17 @@
+{
+  "v": 3,
+  "createdOnFiles": {"v": 1, "at": "2026-10-21T10:00:00Z"},
+  "title": "QBS UAE Subpages Redesign",
+  "launch": {"view": "canvas"},
+  "pages": [],
+  "boards": {
+    "Main.dc.html":    {"x": 0,    "y": 0, "w": 1440, "h": 4400, "expand": "fill", "title": "Services Page",  "is_interactive": true},
+    "About.dc.html":   {"x": 1520, "y": 0, "w": 1440, "h": 3800, "expand": "fill", "title": "About Page"},
+    "Contact.dc.html": {"x": 3040, "y": 0, "w": 1440, "h": 2800, "expand": "fill", "title": "Contact Page"}
+  },
+  "order": ["Main.dc.html", "About.dc.html", "Contact.dc.html"],
+  "notes": {
+    "hd": {"x": 720, "y": -200, "text": "QBS UAE — Subpages Redesign", "kind": "title1", "maxW": 4440, "color": "teal"}
+  },
+  "designSystems": []
+}
